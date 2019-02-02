@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [CCtalk_converter.PrjPcb]
+   Generated File[Bill of Materials-CCtalk_converter.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:11:08 On 02/02/2019

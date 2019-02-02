@@ -1,0 +1,26 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C1         CAP0603               2990mil       3810mil       2990mil       3810mil   3019.528mil       3810mil  T        180.00 1uF            
+C2         CAP0603               2990mil       3865mil       2990mil       3865mil   3019.528mil       3865mil  T        180.00 100nF          
+C3         CAP0603               3340mil       4060mil       3340mil       4060mil       3340mil   4030.472mil  B         90.00 0.33uF         
+C4         CAP0603               3340mil       3930mil       3340mil       3930mil       3340mil   3959.528mil  B        270.00 10uF           
+C5         CAP0603               3400mil       3995mil       3400mil       3995mil       3400mil   4024.528mil  B        270.00 100nF          
+C6         CAP0603               3235mil       3960mil       3235mil       3960mil       3235mil   3930.472mil  T         90.00 1uF            
+C7         CAP0603               3235mil       4090mil       3235mil       4090mil       3235mil   4060.472mil  T         90.00 1uF            
+C8         CAP0603               3075mil       3820mil       3075mil       3820mil       3075mil   3790.472mil  T         90.00 1uF            
+C9         CAP0603               3235mil       4205mil       3235mil       4205mil       3235mil   4175.472mil  T         90.00 1uF            
+D2         SOD123                3645mil       4165mil       3645mil       4165mil   3572.166mil       4165mil  T        180.00 BAT54H         
+P1         HDR1X4                3115mil       4360mil       3265mil       4360mil       3265mil       4360mil  T        180.00 UART-DEBUG     
+P2         HDR_1X3               3805mil       4095mil       3805mil       4195mil       3805mil       4195mil  T        270.00 CCtalk         
+Q1         SOT23-3               3340mil       4095mil       3340mil       4095mil   3294.724mil   4132.402mil  T        360.00 BC856A,215     
+Q2         SOT23-3               3550mil       4075mil       3550mil       4075mil   3504.724mil   4112.402mil  T        360.00 BC847          
+R1         RES0603               3305mil       4220mil       3305mil       4220mil       3305mil   4249.528mil  T        270.00 10K            
+R2         RES0603               3675mil       4020mil       3675mil       4020mil   3645.472mil       4020mil  T        360.00 10K            
+R3         RES0603               3675mil       4100mil       3675mil       4100mil   3704.528mil       4100mil  T        180.00 56R            
+R4         RES0603               3415mil       4145mil       3415mil       4145mil   3444.528mil       4145mil  T        180.00 10K            
+R5         RES0603               3445mil       4055mil       3445mil       4055mil       3445mil   4025.472mil  T         90.00 100k           
+U1         sot-223           3129.047mil    3994.63mil       3315mil       4085mil   3258.968mil   4085.181mil  B        270.00 UA78M05IDCYR   
+U2         16-SOIC               3055mil   4095.587mil       3055mil       4070mil   3161.299mil   3920.449mil  T         90.00 MAX232N        
+D1         sod-323           3428.465mil       4090mil       3470mil       4090mil       3470mil       4090mil  B        180.00 BAT760         
+J1         DSUB_9POS_PCB         2785mil       4068mil       2785mil       3850mil       2785mil       3850mil  T          0.00 D Connector 9  
+
