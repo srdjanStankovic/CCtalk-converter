@@ -1,4 +1,4 @@
-20126005211173767
+20127744848831968
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -76684,6 +76684,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RS232-to-CCtalk-converter-lib
+4pin-JST-XH-header-SMT
+PC board layout and Assembly layout/ SMT type
+
+0
+4
+4
 RS232-to-CCtalk-converter-lib
 C_0603_1608Metric
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator

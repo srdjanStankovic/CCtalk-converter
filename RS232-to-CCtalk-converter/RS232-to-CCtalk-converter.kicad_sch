@@ -1075,7 +1075,6 @@
     )
   )
 
-
   (junction (at 187.325 90.17) (diameter 0) (color 0 0 0 0)
     (uuid 4ba583ba-b776-4827-b11a-c61bc4691c5a)
   )
@@ -1956,7 +1955,7 @@
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x04" (id 1) (at 266.7 142.8749 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Footprint" "RS232-to-CCtalk-converter-lib:FanPinHeader_1x04_P2.54mm_Vertical" (id 2) (at 264.16 140.335 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2198,14 +2197,12 @@
     (pin "1" (uuid 39bcb651-2477-4344-bd94-334ea1698d4e))
   )
 
-  (symbol (lib_id "RS232-to-CCtalk-converter-lib:Conn_01x03") (at 264.795 93.98 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+  (symbol (lib_id "RS232-to-CCtalk-converter-lib:Conn_01x03") (at 264.795 93.98 0) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes)
     (uuid f1cc83a0-6b19-46fb-8328-3a657b6e1e7d)
-    (property "Reference" "J3" (id 0) (at 267.97 92.7099 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "Conn_01x03" (id 1) (at 267.97 95.2499 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+    (property "Reference" "J3" (id 0) (at 267.335 93.345 0))
+    (property "Value" "CCtalk Cable" (id 1) (at 273.05 95.885 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "RS232-to-CCtalk-converter-lib:FanPinHeader_1x03_P2.54mm_Vertical" (id 2) (at 264.795 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2373,7 +2370,7 @@
       (reference "J2") (unit 1) (value "Conn_01x04") (footprint "RS232-to-CCtalk-converter-lib:FanPinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/f1cc83a0-6b19-46fb-8328-3a657b6e1e7d"
-      (reference "J3") (unit 1) (value "Conn_01x03") (footprint "RS232-to-CCtalk-converter-lib:FanPinHeader_1x03_P2.54mm_Vertical")
+      (reference "J3") (unit 1) (value "CCtalk Cable") (footprint "RS232-to-CCtalk-converter-lib:FanPinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/cce57939-2ab1-4897-bc4c-99f3f0b3e064"
       (reference "Q1") (unit 1) (value "BC847") (footprint "RS232-to-CCtalk-converter-lib:SOT-23")
