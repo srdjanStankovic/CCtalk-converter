@@ -1,4 +1,4 @@
-20127747949100913
+20129488423025070
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -76713,19 +76713,26 @@ SOD-323F
 2
 2
 RS232-to-CCtalk-converter-lib
-FanPinHeader_1x03_P2.54mm_Vertical
-3-pin CPU fan Through hole pin header, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf
-pin header 3-pin CPU fan
-0
-5
-3
-RS232-to-CCtalk-converter-lib
 FanPinHeader_1x04_P2.54mm_Vertical
 4-pin CPU fan Through hole pin header, e.g. for Wieson part number 2366C888-007 Molex 47053-1000, Foxconn HF27040-M1, Tyco 1470947-1 or equivalent, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf
 pin header 4-pin CPU fan
 0
 4
 4
+RS232-to-CCtalk-converter-lib
+Header_1x03_P2.54mm_Vertical
+3-pin CPU fan Through hole pin header, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf
+pin header 3-pin CPU fan
+0
+5
+3
+RS232-to-CCtalk-converter-lib
+Header_1x03_P2.54mm_Vertical_with_holder
+3-pin CPU fan Through hole pin header, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf
+pin header 3-pin CPU fan
+0
+5
+3
 RS232-to-CCtalk-converter-lib
 R_0603_1608Metric
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
