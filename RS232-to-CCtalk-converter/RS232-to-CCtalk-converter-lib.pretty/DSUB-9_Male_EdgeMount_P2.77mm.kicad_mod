@@ -1,6 +1,6 @@
 (footprint "DSUB-9_Male_EdgeMount_P2.77mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 67B66E3E)
+  (tedit 67BC3588)
   (descr "9-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "9-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 25mm")
   (property "Sheetfile" "RS232-to-CCtalk-converter.kicad_sch")
@@ -109,9 +109,9 @@
   (pad "7" smd rect (at -1.385 0) (size 1.846667 3.48) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp b79d8d99-88b5-4d84-a010-b6d768d67ec8))
   (pad "8" smd rect (at 1.385 0) (size 1.846667 3.48) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 0d678ff1-21aa-4e6f-ae06-abf24406f3c8))
   (pad "9" smd rect (at 4.155 0) (size 1.846667 3.48) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp eb06cbed-9a37-40e7-bc33-37acd0ee650a))
-  (model "${KIPRJMOD}/3D-model/DB9.step"
-    (offset (xyz -5.5 -1.75 0.5))
+  (model "${KIPRJMOD}/3D-model/DB-9F-2-female-wire-connector.STEP"
+    (offset (xyz 0 -7.25 -0.75))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz 0 180 180))
   )
 )
