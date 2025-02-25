@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/srdjan/git/CCtalk-converter/RS232-to-CCtalk-converter/RS232-to-CCtalk-converter.kicad_sch</source>
+    <date>Sat 22 Feb 2025 10:46:23 PM CET</date>
+    <tool>Eeschema 6.0.2+dfsg-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>RS232-to-CCtalk-converter</title>
+        <company/>
+        <rev>v0.1</rev>
+        <date>2025-02-01</date>
+        <source>RS232-to-CCtalk-converter.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>RS232-to-CCtalk-converter-lib:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/40/KGM_X7R-3223212.pdf</datasheet>
+      <fields>
+        <field name="MPN">06036C105MAT2A</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="C" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="06036C105MAT2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9aeb2864-ed2e-4851-817e-697f8b674186</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>RS232-to-CCtalk-converter-lib:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/40/KGM_X7R-3223212.pdf</datasheet>
+      <fields>
+        <field name="MPN">06036C105MAT2A</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="C" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="06036C105MAT2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>def49df5-1e8a-45e4-8ca6-800c44d1ff1d</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>RS232-to-CCtalk-converter-lib:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/40/KGM_X7R-3223212.pdf</datasheet>
+      <fields>
+        <field name="MPN">06036C105MAT2A</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="C" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="06036C105MAT2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f389ee7-c7da-4184-aaec-7615aef88915</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>RS232-to-CCtalk-converter-lib:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/40/KGM_X7R-3223212.pdf</datasheet>
+      <fields>
+        <field name="MPN">06036C105MAT2A</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="C" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="06036C105MAT2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a522db6-5724-4ae1-b992-375536db9ed8</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>RS232-to-CCtalk-converter-lib:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/40/KGM_X7R-3223212.pdf</datasheet>
+      <fields>
+        <field name="MPN">06036C105MAT2A</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="C" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="06036C105MAT2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f490f48-415a-41ef-b3d9-1457b1fefd79</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>RS232-to-CCtalk-converter-lib:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/40/KGM_X7R-3223212.pdf</datasheet>
+      <fields>
+        <field name="MPN">06036C105MAT2A</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="C" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="06036C105MAT2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03626e09-9898-47df-a780-d5ead61631dd</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.33uF</value>
+      <footprint>RS232-to-CCtalk-converter-lib:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/40/KGM_X7R-3223212.pdf</datasheet>
+      <fields>
+        <field name="MPN">06036C105MAT2A</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="C" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="06036C105MAT2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>298fc7a2-1e81-4712-af14-22a9435c4d41</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <footprint>RS232-to-CCtalk-converter-lib:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/40/KGM_X7R-3223212.pdf</datasheet>
+      <fields>
+        <field name="MPN">06036C105MAT2A</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="C" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="06036C105MAT2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c9db6b6-fdef-4aac-9230-d8ef9dd367c7</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>RS232-to-CCtalk-converter-lib:C_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/40/KGM_X7R-3223212.pdf</datasheet>
+      <fields>
+        <field name="MPN">06036C105MAT2A</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="C" description="Unpolarized capacitor, small symbol"/>
+      <property name="MPN" value="06036C105MAT2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffcb6f2f-214f-44ae-ab9c-5a2ae1d24cb0</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BAT54J</value>
+      <footprint>RS232-to-CCtalk-converter-lib:D_SOD-323F</footprint>
+      <datasheet>https://www.onsemi.com/PowerSolutions/product.do?id=BAT54HT1G</datasheet>
+      <fields>
+        <field name="MPN">BAT54HT1G</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="MPN" value="BAT54HT1G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02e6d696-d4cc-4a99-99c2-d28ff9976ee6</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>BAT760</value>
+      <footprint>RS232-to-CCtalk-converter-lib:D_SOD-323F</footprint>
+      <datasheet>https://www.onsemi.com/PowerSolutions/product.do?id=BAT54HT1G</datasheet>
+      <fields>
+        <field name="MPN">BAT54HT1G</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="MPN" value="BAT54HT1G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e64bec07-ecf2-45b5-83cb-9d847b2c7591</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>DB9_Female</value>
+      <footprint>RS232-to-CCtalk-converter-lib:DSUB-9_Male_EdgeMount_P2.77mm</footprint>
+      <datasheet>https://hr.mouser.com/datasheet/2/296/999-YYY-E30SY02-1539073.pdf</datasheet>
+      <fields>
+        <field name="MPN">MHDTZK9-DB9S-K</field>
+      </fields>
+      <libsource lib="Connector" part="DB9_Female" description="9-pin female D-SUB connector"/>
+      <property name="MPN" value="MHDTZK9-DB9S-K"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e37daa04-b262-4f7e-8ef7-14142bb24e98</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>CCtalk Cable</value>
+      <footprint>RS232-to-CCtalk-converter-lib:Header_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cee2ca0f-9764-42dd-9fd2-6700a2d8efae</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>CCtalk Cable</value>
+      <footprint>RS232-to-CCtalk-converter-lib:Header_1x03_P2.54mm_Vertical_with_holder</footprint>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1cc83a0-6b19-46fb-8328-3a657b6e1e7d</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BC847</value>
+      <footprint>RS232-to-CCtalk-converter-lib:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/PowerSolutions/product.do?id=BC847CWT1G</datasheet>
+      <fields>
+        <field name="MPN">BC847CWT1G</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="MPN" value="BC847CWT1G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cce57939-2ab1-4897-bc4c-99f3f0b3e064</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BC856</value>
+      <footprint>RS232-to-CCtalk-converter-lib:SOT-23</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BC856-Q_BC857-Q_BC858-Q.pdf</datasheet>
+      <fields>
+        <field name="MPN">BC856A-QR</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="BC856" description="0.1A Ic, 65V Vce, PNP Transistor, SOT-23"/>
+      <property name="MPN" value="BC856A-QR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7a8976a-daa8-4e3c-9d03-cef69343c993</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>RS232-to-CCtalk-converter-lib:R_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf</datasheet>
+      <fields>
+        <field name="MPN">RT0603FRE1310KL</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="R" description="Resistor, small symbol"/>
+      <property name="MPN" value="RT0603FRE1310KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0f18071-c3da-42d2-8968-40987d34a9d1</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>56R</value>
+      <footprint>RS232-to-CCtalk-converter-lib:R_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf</datasheet>
+      <fields>
+        <field name="MPN">RT0603FRE1310KL</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="R" description="Resistor, small symbol"/>
+      <property name="MPN" value="RT0603FRE1310KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08c51954-6b77-4979-957b-ce1bbdd334e6</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>RS232-to-CCtalk-converter-lib:R_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf</datasheet>
+      <fields>
+        <field name="MPN">RT0603FRE1310KL</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="R" description="Resistor, small symbol"/>
+      <property name="MPN" value="RT0603FRE1310KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10e0cb16-3224-4ffe-b845-99ec3909972a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>RS232-to-CCtalk-converter-lib:R_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf</datasheet>
+      <fields>
+        <field name="MPN">RT0603FRE1310KL</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="R" description="Resistor, small symbol"/>
+      <property name="MPN" value="RT0603FRE1310KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d194f1c-1c85-44f2-bee1-f8e3a094bdd0</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100K</value>
+      <footprint>RS232-to-CCtalk-converter-lib:R_0603_1608Metric</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf</datasheet>
+      <fields>
+        <field name="MPN">RT0603FRE1310KL</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="R" description="Resistor, small symbol"/>
+      <property name="MPN" value="RT0603FRE1310KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>420dd2eb-302d-4e79-8403-f0a5515195ba</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ST232B</value>
+      <footprint>RS232-to-CCtalk-converter-lib:SOIC-16_4.55x10.3mm_P1.27mm</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/389/st232b-1850209.pdf</datasheet>
+      <fields>
+        <field name="MPN">ST232BDR</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="ST232B" description="Dual RS232 driver/receiver, 5V supply, 120kb/s, -40C-80C"/>
+      <property name="MPN" value="ST232BDR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5663db8-8904-4676-9a9b-5d2ddd37c454</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>L7805</value>
+      <footprint>RS232-to-CCtalk-converter-lib:TO-252-3_TabPin2</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/ua78m.pdf?ts=1738532170293&amp;ref_url=https%253A%252F%252Feu.mouser.com%252F</datasheet>
+      <fields>
+        <field name="MPN">UA78M05IDCYR</field>
+      </fields>
+      <libsource lib="RS232-to-CCtalk-converter-lib" part="L7805" description="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <property name="MPN" value="UA78M05IDCYR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RS232-to-CCtalk-converter.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb3c31af-dc40-4a93-8646-604aee7aeb4c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="DB9_Female">
+      <description>9-pin female D-SUB connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>DSUB*Female*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DB9_Female</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RS232-to-CCtalk-converter-lib" part="BAT54J">
+      <description>30V 200mA Schottky diode, SOD-323F</description>
+      <docs>https://www.onsemi.com/PowerSolutions/product.do?id=BAT54HT1G</docs>
+      <footprints>
+        <fp>D*SOD?323F*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D?</field>
+        <field name="Value">BAT54J</field>
+        <field name="Footprint">RS232-to-CCtalk-converter-lib:D_SOD-323F</field>
+        <field name="Datasheet">https://www.onsemi.com/PowerSolutions/product.do?id=BAT54HT1G</field>
+        <field name="MPN">BAT54HT1G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RS232-to-CCtalk-converter-lib" part="BC847">
+      <description>0.1A Ic, 45V Vce, NPN Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/PowerSolutions/product.do?id=BC847CWT1G</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q?</field>
+        <field name="Value">BC847</field>
+        <field name="Footprint">RS232-to-CCtalk-converter-lib:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/PowerSolutions/product.do?id=BC847CWT1G</field>
+        <field name="MPN">BC847CWT1G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RS232-to-CCtalk-converter-lib" part="BC856">
+      <description>0.1A Ic, 65V Vce, PNP Transistor, SOT-23</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/BC856-Q_BC857-Q_BC858-Q.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q?</field>
+        <field name="Value">BC856</field>
+        <field name="Footprint">RS232-to-CCtalk-converter-lib:SOT-23</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BC856-Q_BC857-Q_BC858-Q.pdf</field>
+        <field name="MPN">BC856A-QR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RS232-to-CCtalk-converter-lib" part="C">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>https://eu.mouser.com/datasheet/2/40/KGM_X7R-3223212.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C?</field>
+        <field name="Value">C</field>
+        <field name="Footprint">RS232-to-CCtalk-converter-lib:C_0603_1608Metric</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/40/KGM_X7R-3223212.pdf</field>
+        <field name="MPN">06036C105MAT2A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RS232-to-CCtalk-converter-lib" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J?</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Footprint">RS232-to-CCtalk-converter-lib:FanPinHeader_1x03_P2.54mm_Vertical</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RS232-to-CCtalk-converter-lib" part="L7805">
+      <description>Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252</description>
+      <docs>https://www.ti.com/lit/ds/symlink/ua78m.pdf?ts=1738532170293&amp;ref_url=https%253A%252F%252Feu.mouser.com%252F</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">L7805</field>
+        <field name="Footprint">RS232-to-CCtalk-converter-lib:TO-252-3_TabPin2</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/ua78m.pdf?ts=1738532170293&amp;ref_url=https%253A%252F%252Feu.mouser.com%252F</field>
+        <field name="MPN">UA78M05IDCYR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="RS232-to-CCtalk-converter-lib" part="R">
+      <description>Resistor, small symbol</description>
+      <docs>https://eu.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R?</field>
+        <field name="Value">R</field>
+        <field name="Footprint">RS232-to-CCtalk-converter-lib:R_0603_1608Metric</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf</field>
+        <field name="MPN">RT0603FRE1310KL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RS232-to-CCtalk-converter-lib" part="ST232B">
+      <description>Dual RS232 driver/receiver, 5V supply, 120kb/s, -40C-80C</description>
+      <docs>https://eu.mouser.com/datasheet/2/389/st232b-1850209.pdf</docs>
+      <footprints>
+        <fp>SOIC*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">ST232B</field>
+        <field name="Footprint">RS232-to-CCtalk-converter-lib:SOIC-16_4.55x10.3mm_P1.27mm</field>
+        <field name="Datasheet">https://eu.mouser.com/datasheet/2/389/st232b-1850209.pdf</field>
+        <field name="MPN">ST232BDR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C1+" type="passive"/>
+        <pin num="2" name="VS+" type="power_out"/>
+        <pin num="3" name="C1-" type="passive"/>
+        <pin num="4" name="C2+" type="passive"/>
+        <pin num="5" name="C2-" type="passive"/>
+        <pin num="6" name="VS-" type="power_out"/>
+        <pin num="7" name="T2OUT" type="output"/>
+        <pin num="8" name="R2IN" type="input"/>
+        <pin num="9" name="R2OUT" type="output"/>
+        <pin num="10" name="T2IN" type="input"/>
+        <pin num="11" name="T1IN" type="input"/>
+        <pin num="12" name="R1OUT" type="output"/>
+        <pin num="13" name="R1IN" type="input"/>
+        <pin num="14" name="T1OUT" type="output"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="RS232-to-CCtalk-converter-lib">
+      <uri>/home/srdjan/git/CCtalk-converter/RS232-to-CCtalk-converter/RS232-to-CCtalk-converter-lib.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="+24V">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="3" name="CCTALK-DATA">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="GNDREF">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="5" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VS+" pintype="power_out"/>
+    </net>
+    <net code="6" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VS-" pintype="power_out"/>
+    </net>
+    <net code="7" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="C2+" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="C2-" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="C1+" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="C1-" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="RX">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="R1OUT" pintype="output"/>
+    </net>
+    <net code="17" name="RXout">
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="R1IN" pintype="input"/>
+    </net>
+    <net code="18" name="TX">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="T1IN" pintype="input"/>
+    </net>
+    <net code="19" name="TXout">
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="T1OUT" pintype="output"/>
+    </net>
+    <net code="20" name="unconnected-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(J1-Pad6)">
+      <node ref="J1" pin="6" pinfunction="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(J1-Pad7)">
+      <node ref="J1" pin="7" pinfunction="7" pintype="passive+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(J1-Pad8)">
+      <node ref="J1" pin="8" pinfunction="8" pintype="passive+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(J1-Pad9)">
+      <node ref="J1" pin="9" pinfunction="9" pintype="passive+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="T2OUT" pintype="output+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="R2IN" pintype="input+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="R2OUT" pintype="output+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(U1-Pad10)">
+      <node ref="U1" pin="10" pinfunction="T2IN" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
