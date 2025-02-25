@@ -1,6 +1,6 @@
 (footprint "SOT-23" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 67A699EA)
+  (tedit 67BE3F12)
   (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOT TO_SOT_SMD")
   (property "MPN" "BC847CWT1G")
@@ -35,7 +35,7 @@
   (pad "1" smd roundrect (at -0.9375 -0.95) (size 1.475 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c6505e92-8e90-436d-b6f5-959c6248d156))
   (pad "2" smd roundrect (at -0.9375 0.95) (size 1.475 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d82759b1-57a0-4293-812e-59347193bfc5))
   (pad "3" smd roundrect (at 0.9375 0) (size 1.475 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0f0d22b0-c2a7-436a-931c-fa4be6782d48))
-  (model "${KIPRJMOD}/3D-model/sot-23.stp"
+  (model "/home/srdjan/git/CCtalk-converter/3D-models/sot-23.stp"
     (offset (xyz 0 1.45 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

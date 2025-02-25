@@ -1,6 +1,6 @@
 (footprint "SOIC-16_4.55x10.3mm_P1.27mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 67A6A6E7)
+  (tedit 67BE3EDF)
   (descr "SOIC, 16 Pin (https://toshiba.semicon-storage.com/info/docget.jsp?did=12858&prodName=TLP291-4), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (property "MPN" "ST232BDR")
@@ -53,7 +53,7 @@
   (pad "14" smd roundrect (at 3.25 -1.905) (size 1.6 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e62e65e6-b466-4769-8746-eb8cd9450c76))
   (pad "15" smd roundrect (at 3.25 -3.175) (size 1.6 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ca2c5f3f-362b-4808-b8c2-86726d31aa11))
   (pad "16" smd roundrect (at 3.25 -4.445) (size 1.6 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3bdaeac5-b4b7-4a96-b0da-b5e1b46798c2))
-  (model "${KIPRJMOD}/3D-model/SO-16.STEP"
+  (model "/home/srdjan/git/CCtalk-converter/3D-models/SO-16.STEP"
     (offset (xyz -2.75 4.45 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

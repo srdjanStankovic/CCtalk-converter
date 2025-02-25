@@ -1,6 +1,6 @@
 (footprint "C_0603_1608Metric" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 67A696B4)
+  (tedit 67BE3E54)
   (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "capacitor")
   (property "MPN" "C0603C334Z4VAC7411")
@@ -31,7 +31,7 @@
   (fp_line (start 0.8 -0.4) (end 0.8 0.4) (layer "F.Fab") (width 0.1) (tstamp edaa690e-7366-4177-92ba-daa3f297ce1e))
   (pad "1" smd roundrect (at -0.775 0) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1e153892-978d-4400-8801-39c4a5561d8b))
   (pad "2" smd roundrect (at 0.775 0) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ff5ead9b-37b8-4bc9-9ac4-39775f57c6cf))
-  (model "${KIPRJMOD}/3D-model/cap-0603.STEP"
+  (model "/home/srdjan/git/CCtalk-converter/3D-models/cap-0603.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

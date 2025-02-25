@@ -1,6 +1,6 @@
 (footprint "D_SOD-323F" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 67A699D2)
+  (tedit 67BE3EB4)
   (descr "SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf")
   (tags "SOD-323F")
   (property "MPN" "BAT760,115")
@@ -38,7 +38,7 @@
   (fp_line (start -0.9 -0.7) (end 0.9 -0.7) (layer "F.Fab") (width 0.1) (tstamp ff355897-ead3-4120-8dcb-1bb00ca0370c))
   (pad "1" smd rect (at -1.1 0) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6a3fe70d-92b9-4ad1-8a4f-a944ee5522b9))
   (pad "2" smd rect (at 1.1 0) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5dfa8f9a-6e69-407d-b1ae-eb50492ca459))
-  (model "${KIPRJMOD}/3D-model/sod-323-2.stp"
+  (model "/home/srdjan/git/CCtalk-converter/3D-models/sod-323-2.stp"
     (offset (xyz 0 0.7 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

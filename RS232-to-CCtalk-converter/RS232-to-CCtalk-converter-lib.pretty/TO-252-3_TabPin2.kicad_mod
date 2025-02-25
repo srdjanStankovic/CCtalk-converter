@@ -1,6 +1,6 @@
 (footprint "TO-252-3_TabPin2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 67B6534E)
+  (tedit 67BE3F09)
   (descr "TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
   (tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
   (property "MPN" "UA78M05IDCYR")
@@ -51,7 +51,7 @@
   (pad "2" smd rect (at 1.4224 0) (size 5 5.8) (layers "F.Cu" "F.Mask") (tstamp 46a31d9d-311e-4951-9580-8458ea12a084))
   (pad "2" smd rect (at -4.2 0) (size 2.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d525482e-5dc6-4c44-b919-a131777fba8e))
   (pad "3" smd rect (at -4.2 2.28) (size 2.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b5b9cc39-57c4-4b34-9753-47ab693cf9f1))
-  (model "${KIPRJMOD}/3D-model/SOT-223-4.stp"
+  (model "/home/srdjan/git/CCtalk-converter/3D-models/SOT-223-4.stp"
     (offset (xyz -0.5 3.3 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

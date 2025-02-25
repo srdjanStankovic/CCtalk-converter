@@ -1,6 +1,6 @@
 (footprint "DSUB-9_Female_wire_mount_P2.77mm_hood" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 67BB6502)
+  (tedit 67BE3E69)
   (descr "9-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
   (tags "9-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 25mm")
   (property "Sheetfile" "RS232-to-CCtalk-converter.kicad_sch")
@@ -14,7 +14,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d09d8e7f-f203-4b36-92ba-f9f29b6e7d13)
   )
-  (model "${KIPRJMOD}/3D-model/DB9 housing.STEP"
+  (model "/home/srdjan/git/CCtalk-converter/3D-models/DB9 housing.STEP"
     (offset (xyz -20 -10 -8.75))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 -90))

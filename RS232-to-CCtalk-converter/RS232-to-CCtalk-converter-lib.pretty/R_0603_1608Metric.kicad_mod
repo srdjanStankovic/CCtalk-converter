@@ -1,6 +1,6 @@
 (footprint "R_0603_1608Metric" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 67A699DC)
+  (tedit 67BE3ED0)
   (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "resistor")
   (property "MPN" "RT0603FRE0756RL")
@@ -31,7 +31,7 @@
   (fp_line (start 0.8 0.4125) (end -0.8 0.4125) (layer "F.Fab") (width 0.1) (tstamp f5322e2e-cac3-432e-bda8-0a4cf8376319))
   (pad "1" smd roundrect (at -0.825 0) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a4ccff6b-8aca-4df0-a4d8-195b1f165632))
   (pad "2" smd roundrect (at 0.825 0) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 340a1653-d3fe-441a-a00c-6fadb8816e05))
-  (model "${KIPRJMOD}/3D-model/res-0603.stp"
+  (model "/home/srdjan/git/CCtalk-converter/3D-models/res-0603.stp"
     (offset (xyz 0 0.4 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
