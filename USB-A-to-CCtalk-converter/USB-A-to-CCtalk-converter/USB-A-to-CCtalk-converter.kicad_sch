@@ -1017,6 +1017,11 @@
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid 4275a0e5-ef2f-446a-8279-636b6be4185d)
   )
+  (text "CABLE:\nhttps://eu.mouser.com/ProductDetail/JST-Commercial/SPH-002T-P0.5S?qs=sGAEpiMZZMvlX3nhDDO4AHguVQqtVxvADsm%2FfFUiBzY%3D\nhttps://eu.mouser.com/ProductDetail/JST-Commercial/PHR-4?qs=QpmGXVUTftHJCiJnsWr8XA%3D%3D"
+    (at 26.67 142.24 0)
+    (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
+    (uuid 5fc5324e-c2ef-45c8-948a-a82775445cd5)
+  )
   (text "CCTALK\nCONNECTOR" (at 243.84 72.39 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid 826b2e7e-a3b0-4777-a346-97940fa19137)
