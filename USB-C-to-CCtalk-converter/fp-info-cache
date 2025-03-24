@@ -1,4 +1,4 @@
-20139947461274278
+20141689802333905
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2483,7 +2483,14 @@ Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount
 USB Type-C Plug Edge Mount
 0
 28
-25
+24
+CCtalk-converter-footprints-lib
+s1u2-background
+
+
+0
+0
+0
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
