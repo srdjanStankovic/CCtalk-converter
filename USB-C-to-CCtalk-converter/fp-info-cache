@@ -1,4 +1,4 @@
-20141689802333905
+20143433375287270
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2428,6 +2428,13 @@ inductor
 0
 2
 2
+CCtalk-converter-footprints-lib
+PCB_terminal_block_Header_1x03_clamp
+3-pin CPU fan Through hole pin header, see http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf
+pin header 3-pin CPU fan
+0
+6
+3
 CCtalk-converter-footprints-lib
 Pluggable Terminal Block 5.08mm Pitch 2 Way
 
