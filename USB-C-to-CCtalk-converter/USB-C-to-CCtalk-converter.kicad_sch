@@ -964,6 +964,7 @@
     )
   )
 
+
   (junction (at 50.165 63.5) (diameter 0) (color 0 0 0 0)
     (uuid 3e43ed96-13c3-47c1-b226-70f9af1f08d4)
   )
@@ -1205,7 +1206,7 @@
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 87b77cd9-8a80-463a-8114-083d84bc0705)
   )
-  (text "USB-A\nCONNECTOR" (at 20.955 53.34 0)
+  (text "USB-C\nCONNECTOR" (at 20.955 53.34 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid c0f5505d-de33-45db-ba63-a83687750c00)
   )

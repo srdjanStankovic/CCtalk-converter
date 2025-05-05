@@ -14,10 +14,6 @@
   )
 
 
-  (text "TODO" (at 151.13 128.27 0)
-    (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
-    (uuid 11178639-4b70-457c-8c6d-25e2a198477c)
-  )
   (text "TODO" (at 223.52 130.175 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid 2b454a04-f374-4572-8e50-9663b1a819ae)
