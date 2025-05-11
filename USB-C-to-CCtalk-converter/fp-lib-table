@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "CCtalk-converter-footprints-lib")(type "KiCad")(uri "/home/srdjan/git/CCtalk-converter/CCtalk-converter-libs/CCtalk-converter-footprints-lib.pretty")(options "")(descr ""))
+)

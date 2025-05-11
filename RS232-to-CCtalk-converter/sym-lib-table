@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "RS232-to-CCtalk-converter-lib")(type "KiCad")(uri "${KIPRJMOD}/RS232-to-CCtalk-converter-lib.kicad_sym")(options "")(descr ""))
+  (lib (name "CCtalk-converter-lib")(type "KiCad")(uri "/home/srdjan/git/CCtalk-converter/CCtalk-converter-libs/CCtalk-converter-lib.kicad_sym")(options "")(descr ""))
 )
